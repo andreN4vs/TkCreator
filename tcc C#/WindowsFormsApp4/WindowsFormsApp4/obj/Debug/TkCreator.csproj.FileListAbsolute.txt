@@ -1,0 +1,15 @@
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\TkCreator.csproj.AssemblyReference.cache
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\TkCreator.csproj.SuggestedBindingRedirects.cache
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.TkCreator.resources
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.teste_2.resources
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.teste.resources
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\TkCreator.csproj.GenerateResource.cache
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\TkCreator.csproj.CoreCompileInputs.cache
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Control.Draggable.dll
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\TkCreator.csproj.CopyComplete

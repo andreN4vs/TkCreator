@@ -1,0 +1,13 @@
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.teste.resources
+D:\tcc\tcc C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.teste_2.resources
